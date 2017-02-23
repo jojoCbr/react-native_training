@@ -1,0 +1,53 @@
+{
+  "container": {
+    "flex": 1,
+    "backgroundColor": "#FFFFFF",
+    "flexDirection": "column",
+    "justifyContent": "center",
+    "alignItems": "center",
+  },
+  "container_dashboard": {
+    "flex": 1,
+    "backgroundColor": "#FFFFFF",
+    "flexDirection": "column",
+    "alignItems": "center",
+  },
+  "container_login": {
+    "flex": 1,
+    "backgroundColor": "#FFFFFF",
+    "flexDirection": "column",
+    "alignItems": "center",
+  },
+  "title": {
+    "backgroundColor": "#3CA43C",
+    "color": "white",
+    "fontWeight": "bold",
+    "textAlign": "center",
+  },
+  "btn": {
+    "backgroundColor": "#3CA43C",
+    "color": "white",
+    "fontWeight": "bold",
+    "textAlign": "center",
+    "height": 40,
+    "lineHeight": 40,
+    "borderWidth": 1,
+    "borderColor": "forestgreen"
+  },
+  "btn_login": {
+    "marginTop": 60,
+  },
+  "welcome": {
+    "fontSize": 20,
+    "textAlign": "center",
+    "margin": 10,
+  },
+  "dash": {
+    "padding": 10,
+    "paddingTop": 20,
+    "paddingBottom": 20,
+    "borderWidth": 1,
+    "borderColor": "#F3F3F3",
+    "marginTop": 20
+  }
+}

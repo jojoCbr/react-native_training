@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SplashPage",
+    "title": "",
+    "index": 0
+  },
+  {
+    "id": "LoginPage",
+    "title": "Login",
+    "index": 1
+  },
+  {
+    "id": "DashBoard",
+    "title": "Home",
+    "index": 2
+  },
+]
